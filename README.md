@@ -1,3 +1,3 @@
 # Netflex-Helper
 
-Imbed Player untuk project Netflex
+Embed Player untuk project Netflex
